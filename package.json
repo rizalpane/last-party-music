@@ -26,7 +26,7 @@
   "dependencies": {
     "@discordjs/voice": "^0.14.0",
     "array-move": "^3.0.1",
-    "core-js": "^3.27.2",
+    "core-js": "^3.29.1",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
     "ffmpeg-static": "^4.4.1",
